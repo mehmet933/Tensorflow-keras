@@ -1,2 +1,2 @@
-# java-ornek
-Aşama aşama kodlanan küçük bir fotoğraf ve albüm yöneticisi
+# evrisimli_sinir_aglari
+
